@@ -19,7 +19,7 @@
 ## 三、实验步骤与结果
 
 > 1. 访问github网站，创建个人账户。（我的：HQIZCC）
-![Ait text](http://github.com/HQIZCC/First-blog/H/1.png)
+![1] (http://github.com/HQIZCC/First-blog/master/1.png)
 > 2. 开始创建我的第一个博客：First-blog
 > 3. 发布第一篇博客，和高伟互相访问各自的账户
 > 4. 学习Markdown：
